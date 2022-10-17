@@ -384,14 +384,14 @@ hr{
 }
 @media (max-width: 990px) {
     #photo{
-        height:26%;
+        height:32%;
 
     }
     .products{
-        height: 180vh;
+        height: 190vh;
     }
     #contact{
-        height:130vh;
+        height:150vh;
     }
 }
 #merchi{
